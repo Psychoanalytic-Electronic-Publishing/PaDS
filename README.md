@@ -16,7 +16,8 @@ The PaDS Web system provides a portal for the administration of the following fu
 - For local development open the PaDS.sln file in Visual Studio 2019.
 
 ### Prerequisites
+You will need the following things properly installed on your computer.
  - Visual Studio 2019
- - Install Microsoft .NET Framework 4.7.1
- - Install DevExpress v19.2 ASP.NET Subscription (with DevExtreme) package. (https://www.devexpress.com/)
+ - Microsoft .NET Framework 4.7.1
+ - DevExpress v19.2 ASP.NET Subscription (with DevExtreme) package. (https://www.devexpress.com/)
  - Ionic Zip a library for handling zip archives. http://www.codeplex.com/DotNetZip (Flavor=Retail)
