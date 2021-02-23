@@ -1,5 +1,5 @@
 # PaDS 
-The PaDS Web system provides a portal for the administration of a mix of the following functions:
+The PaDS Web system provides a portal for the administration of the following functions:
   - Subscriber or member detail maintenance and authentication.
   - Subscriber block order importing.
   - Order taking and maintaining.
