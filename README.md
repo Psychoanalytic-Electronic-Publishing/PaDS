@@ -12,8 +12,8 @@ The PaDS Web system provides a portal for the administration of the following fu
   - Content set administration
   
 ## Getting Started
-- Download PaDS Solution Zip file.
-- For local development open the PaDS.sln file in Visual Studio 2019.
+- Download PaDSForGitHub Zip file.
+- For local development unzip and open the PaDS.sln file in Visual Studio 2019.
 
 ### Prerequisites
 You will need the following things properly installed on your computer.
