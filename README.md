@@ -21,3 +21,5 @@ You will need the following things properly installed on your computer.
  - Microsoft .NET Framework 4.7.1
  - DevExpress v19.2 ASP.NET Subscription (with DevExtreme) package. (https://www.devexpress.com/)
  - Ionic Zip a library for handling zip archives. http://www.codeplex.com/DotNetZip (Flavor=Retail)
+### API
+  - OpenAPI documentation - https://app.swaggerhub.com/apis/nrshapiro/PEPSecure/1.04
