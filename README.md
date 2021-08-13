@@ -14,6 +14,7 @@ The PaDS Web system provides a portal for the administration of the following fu
 ## Getting Started
 - Download PaDSForGitHub Zip file and unzip.
 - Install database backups PaDSForGitHub\BusinessLogic\SQL\DBCreation\PaDS_Try.bak and PaDS_Logs_Try.bak on SQL Server 2017 or above. SQL Express is sufficient.
+- SQL Server must have security-->server authentication property set to "SQL Server and Windows Authentication Mode"
 - On SQL Server run PaDSForGitHub\BusinessLogic\SQL\CreateUsersAndRoleseplaceServerName.sql
 - Open the PaDS.sln file in Visual Studio 2019 or above
 - Complile the solution
