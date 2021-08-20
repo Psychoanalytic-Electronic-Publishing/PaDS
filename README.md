@@ -19,7 +19,7 @@ The PaDS Web system provides a portal for the administration of the following fu
 - Open the PaDS.sln file in Visual Studio 2019 or above
 - Complile the solution
 - Open PaDSForGitHub\PaDSTestHarness\bin\Debug\PaDSTestHarness.exe
-- Update the "Primary Connection String" & "Test Data Directory" and click "Compile 1st SQL"
+- Check, and update if neccessary, the "Primary Connection String" & "SQL Directory" and click "Compile 1st SQL"
 - The PaDS solution should now run showing the PaDS website, the PEPSecure API & the Federated/OpenAthens pass through page.
 - Users Test1 to Test9 are available all with password TestUserPassword01.  User Test6 has full admin rights on PaDSs.
 
